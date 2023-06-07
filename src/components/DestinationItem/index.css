@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.item {
+  color: black;
+  width: 50%;
+}
+.image {
+  height: 30%;
+  width: 30%;
+}
